@@ -78,6 +78,11 @@
       <path value="$PROJECT_DIR$/api/vendor/ocramius/package-versions" />
       <path value="$PROJECT_DIR$/api/vendor/zendframework/zend-eventmanager" />
       <path value="$PROJECT_DIR$/api/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/reflection" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
